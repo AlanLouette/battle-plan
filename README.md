@@ -1,2 +1,4 @@
-# battle-plan
-Battle plan for summer
+# Battle plan | Alan Louette
+
+** First week **
+
