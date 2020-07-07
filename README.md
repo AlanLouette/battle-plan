@@ -12,4 +12,6 @@ It can takes 2 weeks if im still struggling
 
 **The week after**
 
+I will work on React and read my project again to undestand what has been done by my friends and to understant at 100% what we have done with React.
+
 
