@@ -12,8 +12,8 @@ It can takes 3 weeks if im still struggling
 
 I will work on React and read my project again to undestand what has been done by my friends and to understand at 100% what we have done with React. I think I will use again mySQL.
 
-**After summer break**
 
-I still don't know what I will do after yet.
+**First week after summer break**
 
+I will work on a little project with Wordpress the first fews weeks while searching for my job.
 
